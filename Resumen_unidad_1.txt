@@ -1,0 +1,8 @@
+Unidad 1
+
+En la primera unidad aprendimos sobre el código binario, código ASCII, y convertimos texto a código ASCII para luego convertirlo a binario.
+
+Tuvimos una introducción a las proposiciones lógicas, y realizamos una actividad de algoritmos.
+
+Creo que lo más importante de esta unidad es el concepto de los algoritmos, algo que debemos llevar a las siguientes unidades, 
+el flujo para comunicarnos con las computadoras por medio de código, tener esto en mente nos ayuda a identificar y resolver errores.

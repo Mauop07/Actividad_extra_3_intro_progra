@@ -1,0 +1,9 @@
+Unidad 3 
+
+Al igual que en la unidad anterior, tuve mi primer contacto con los controladores de versiones, 
+en especifico GitHub, que honestamente creo se convertirá en una parte indispensable no solo en las actividades de las siguientes unidades, 
+pero también en mis proyectos personales.
+
+Algo que no entendía era, por qué tenerlo en línea si puedo tenerlo en mi disco local, pero no es un reemplazo, 
+es una herramienta para mantener un entorno/proyecto ordenado y controlado.
+Podemos ver cada cambio en nuestros archivos, cada línea de código modificada, es una herramienta muy práctica.

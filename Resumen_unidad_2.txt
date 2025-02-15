@@ -1,0 +1,8 @@
+Unidad 2
+
+La segunda unidad hasta ahora es la más interesante para mí, tuve mi primer contacto con JavaScript 
+y realizamos un par de pequeños programas, mi favorito es un programa que genera un numero aleatorio usando funciones de js, 
+luego le pide un numero al usuario y tenemos un pequeño juego de adivinanza con la computadora.
+
+Usamos condicionales, bucles, variables con datos del usuario.
+Espero encontrar proyectos como este y más complejos en las siguientes unidades.
